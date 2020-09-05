@@ -26,8 +26,8 @@ print(dev)
 
 
 
-### Add Auto Output Item
-## This is for Mode 2 
+## Add Auto Output Item
+### This is for Mode 2 
 
 
 addAutoOutputItem('Name of Item':String, OutputIndex:Int)
@@ -36,8 +36,8 @@ addAutoOutputItem('Name of Item':String, OutputIndex:Int)
 print(upSplitter:addAutoOutputItem('test', 0))
 ```
 
-### Get Auto Output
-## This is for Mode 2 
+## Get Auto Output
+### This is for Mode 2 
 
 upSplitter:getAutoOutput(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
 
@@ -46,8 +46,8 @@ print(upSplitter:getAutoOutput(true, 0, 0))
 ```
 
 
-### Clear Auto Output
-## This is for Mode 2 
+## Clear Auto Output
+### This is for Mode 2 
 
 upSplitter:clearAutoOutput(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
 
