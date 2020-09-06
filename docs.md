@@ -18,31 +18,57 @@ print(dev)
 
 
 
-## Add Auto Output Item
+## Add Output Filter
 ### This is for Mode 2 
 
+addOutputFilter('Name of Item':String, OutputIndex:Int)
 
-addAutoOutputItem('Name of Item':String, OutputIndex:Int)
-
-```lua
-print(upSplitter:addAutoOutputItem('test', 0))
-```
-
-## Get Auto Output
-### This is for Mode 2 
-
-upSplitter:getAutoOutput(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
+return (FilterItems:Array[String], index:int, desc:string, msg:String)
 
 ```lua
-print(upSplitter:getAutoOutput(true, 0, 0))
+
+FilterItems, index, desc, msg = upSplitter:addOutputFilter('test', 0)
+print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
 ```
 
 
-## Clear Auto Output
-### This is for Mode 2 
 
-upSplitter:clearAutoOutput(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
+
+## Get Output Filter
+
+upSplitter:getOutputFilter(OutputIndex:Int)
+
+return (FilterItems:Array[String], index:int, desc:string, msg:String)
 
 ```lua
-print(upSplitter:clearAutoOutput(true, 0, 0))
+FilterItems, index, desc, msg = upSplitter:getOutputFilter(0)
+print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
+```
+
+
+
+
+
+## Clear Output Filter
+### This is for Mode 2 
+
+upSplitter:clearOutputFilter(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
+
+return (FilterItems:Array[String], index:int, desc:string, msg:String)
+
+```lua
+FilterItems, index, desc, msg = upSplitter:clearOutputFilter(true, 0, 0)
+print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
+```
+
+
+
+
+
+## Get All Outputs
+### Development Function
+
+
+```lua
+print(upSplitter:getAllOutputs())
 ```
