@@ -1,7 +1,18 @@
 
+
+
+# atifactory World Sizes
+
+1 Foundation is in Game World Size X= 800, Y= 800, Z= 400
+1 Foundation is in SF World Size X= 8m, Y= 8m, Z= 4m
+
+
+
+
+
 # Splitter Functions
 
-### Switch Mode
+## Switch Mode
 
 You can switch between 3 Modes 
 0 = Normal
@@ -15,7 +26,6 @@ mode, dev = upSplitter:switchMode(0)
 print(mode)
 print(dev)
 ```
-
 
 
 ## Add Output Filter
