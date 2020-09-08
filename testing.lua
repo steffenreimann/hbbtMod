@@ -71,7 +71,7 @@ function repeatingSound(components, file, startTime, duration)
                 event.listen(component)
             end
             name, type, stat, idk = event.pull()
-            now = computer.millis()
+        
             if stat>1 then 
                 play(components, file,startTime)
             elseif stat == 1 then

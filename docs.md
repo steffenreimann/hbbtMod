@@ -37,8 +37,8 @@ return (FilterItems:Array[String], index:int, desc:string, msg:String)
 
 ```lua
 
-FilterItems, index, desc, msg = upSplitter:addOutputFilter('test', 0)
-print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
+filterItems, index, desc, msg = upSplitter:addOutputFilter('test', 0)
+print('Index'..index..'// '..hbbt.toString(filterItems)..' // '..desc..' // '..msg)
 ```
 
 
@@ -51,8 +51,8 @@ upSplitter:getOutputFilter(OutputIndex:Int)
 return (FilterItems:Array[String], index:int, desc:string, msg:String)
 
 ```lua
-FilterItems, index, desc, msg = upSplitter:getOutputFilter(0)
-print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
+filterItems, index, desc, msg = upSplitter:getOutputFilter(0)
+print('Index'..index..'// '..hbbt.toString(filterItems)..' // '..desc..' // '..msg)
 ```
 
 
@@ -67,8 +67,8 @@ upSplitter:clearOutputFilter(All?:Boolean, OutputIndex:Int, ArrayIndex:Int)
 return (FilterItems:Array[String], index:int, desc:string, msg:String)
 
 ```lua
-FilterItems, index, desc, msg = upSplitter:clearOutputFilter(true, 0, 0)
-print('Index'..index..'// '..FilterItems..' // '..desc..' // '..msg)
+filterItems, index, desc, msg = upSplitter:clearOutputFilter(true, 0, 0)
+print('Index'..index..'// '..hbbt.toString(filterItems)..' // '..desc..' // '..msg)
 ```
 
 
