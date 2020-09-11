@@ -1,0 +1,15 @@
+{
+  "name": "nodelogreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logreader.js",
+  "dependencies": {
+    "text-file-follower": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steffen reimann",
+  "license": "ISC"
+}
