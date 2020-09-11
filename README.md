@@ -9,3 +9,6 @@
 
 ## FIN Lua Docs for this Mod
 [Lua Functions Docs](docs.md)
+
+
+sendData('name:Steffen, nachname:reimann, test: good')

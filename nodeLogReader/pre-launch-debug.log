@@ -1,0 +1,397 @@
+Log System Initialized!
+Setting up hooking
+Game Root Directory: "E:\\epicgames\\SatisfactoryEarlyAccess"
+Bootstrapper Directory: "E:\\epicgames\\SatisfactoryEarlyAccess\\FactoryGame\\Binaries\\Win64"
+Discovering loader modules...
+Discovering loader module candidate tetest "UE4-SML-Win64-Shipping.dll"
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC79640000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 380
+Removing protection from page 00007FFC79715A00
+Removing protection from page 00007FFC796CE000
+Removing protection from page 00007FFC796CFD18
+Providing default implementation for destructor of class: UObject
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: FSoftObjectPath
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 2451998376000
+mov rcx, [rsp+48]
+add rcx, 8
+call 140701696152688
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: FJsonValue
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: FChatMessageStruct
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701696152688
+mov rcx, [rsp+48]
+add rcx, 32
+call 140701696152688
+mov rcx, [rsp+48]
+add rcx, 48
+call 2451998376192
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: AFGSubsystem
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: FInventoryStack
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701700345488
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Successfully loaded module "UE4-SML-Win64-Shipping.dll"
+Bootstrapping loader modules...
+Bootstrapping module UE4-SML-Win64-Shipping.dll
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC7CDA0000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 260
+Removing protection from page 00007FFC7CDE9B94
+Removing protection from page 00007FFC7CDDE000
+Removing protection from page 00007FFC7CDDF000
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC79400000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 500
+Removing protection from page 00007FFC795D1218
+Removing protection from page 00007FFC7953C000
+Providing default implementation for destructor of class: FRegexPattern
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: FSoftObjectPath
+Warning! It can result in memory leaks if object is not freed up properly.
+Providing default implementation for destructor of class: FCoreRedirect
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 2451998376000
+mov rcx, [rsp+48]
+add rcx, 8
+call 2451998376000
+mov rcx, [rsp+48]
+add rcx, 16
+call 2451998376000
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 4
+call 2451998376576
+mov rcx, [rsp+48]
+add rcx, 28
+call 2451998376576
+mov rcx, [rsp+48]
+add rcx, 52
+call 2451998376576
+mov rcx, [rsp+48]
+add rcx, 80
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Removing protection from page 00007FFC7953D000
+Removing protection from page 00007FFC7953E380
+[FATAL] Executable missing symbol with mangled name: ?SetText@FSyntaxHighlighterTextLayoutMarshaller@@UEAAXAEBVFString@@AEAVFTextLayout@@@Z
+[FATAL] De-mangled symbol name (for reference): public: virtual void __cdecl FSyntaxHighlighterTextLayoutMarshaller::SetText(class FString const & __ptr64,class FTextLayout & __ptr64) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ?RequiresLiveUpdate@FSyntaxHighlighterTextLayoutMarshaller@@UEBA_NXZ
+[FATAL] De-mangled symbol name (for reference): public: virtual bool __cdecl FSyntaxHighlighterTextLayoutMarshaller::RequiresLiveUpdate(void)const __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ??4FSyntaxHighlighterTextLayoutMarshaller@@QEAAAEAV0@AEBV0@@Z
+[FATAL] De-mangled symbol name (for reference): public: class FSyntaxHighlighterTextLayoutMarshaller & __ptr64 __cdecl FSyntaxHighlighterTextLayoutMarshaller::operator=(class FSyntaxHighlighterTextLayoutMarshaller const & __ptr64) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ??0FSyntaxHighlighterTextLayoutMarshaller@@QEAA@AEBV0@@Z
+[FATAL] De-mangled symbol name (for reference): public: __cdecl FSyntaxHighlighterTextLayoutMarshaller::FSyntaxHighlighterTextLayoutMarshaller(class FSyntaxHighlighterTextLayoutMarshaller const & __ptr64) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ??0FSyntaxHighlighterTextLayoutMarshaller@@IEAA@V?$TSharedPtr@VFSyntaxTokenizer@@$0A@@@@Z
+[FATAL] De-mangled symbol name (for reference): protected: __cdecl FSyntaxHighlighterTextLayoutMarshaller::FSyntaxHighlighterTextLayoutMarshaller(class TSharedPtr<class FSyntaxTokenizer,0>) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+Providing default implementation for destructor of class: FSyntaxHighlighterTextLayoutMarshaller
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 40
+call 140701692854272
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+[FATAL] Executable missing symbol with mangled name: ?Create@FSyntaxTokenizer@@SA?AV?$TSharedRef@VFSyntaxTokenizer@@$0A@@@V?$TArray@UFRule@FSyntaxTokenizer@@VFDefaultAllocator@@@@@Z
+[FATAL] De-mangled symbol name (for reference): public: static class TSharedRef<class FSyntaxTokenizer,0> __cdecl FSyntaxTokenizer::Create(class TArray<struct FSyntaxTokenizer::FRule,class FDefaultAllocator>)
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ?Len@FTextRange@@QEBAHXZ
+[FATAL] De-mangled symbol name (for reference): public: int __cdecl FTextRange::Len(void)const __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+Providing default implementation for destructor of class: SLeafWidget
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701707717792
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: IFGSaveInterface
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: AFGSubsystem
+Warning! It can result in memory leaks if object is not freed up properly.
+Providing default implementation for destructor of class: FInventoryStack
+Warning! It can result in memory leaks if object is not freed up properly.
+Providing default implementation for destructor of class: FPowerCircuitStats
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 32
+call 2451998377408
+mov rcx, [rsp+48]
+add rcx, 48
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+[FATAL] Executable missing symbol with mangled name: ??0FRailroadTrackPosition@@QEAA@PEAVAFGBuildableRailroadTrack@@MM@Z
+[FATAL] De-mangled symbol name (for reference): public: __cdecl FRailroadTrackPosition::FRailroadTrackPosition(class AFGBuildableRailroadTrack * __ptr64,float,float) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ?GetWorldLocationAndDirectionAtPosition@AFGBuildableRailroadTrack@@QEBAXAEBUFRailroadTrackPosition@@AEAUFVector@@1@Z
+[FATAL] De-mangled symbol name (for reference): public: void __cdecl AFGBuildableRailroadTrack::GetWorldLocationAndDirectionAtPosition(struct FRailroadTrackPosition const & __ptr64,struct FVector & __ptr64,struct FVector & __ptr64)const __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+[FATAL] Executable missing symbol with mangled name: ?GetFuelBurnRatio@AFGWheeledVehicle@@QEAAMXZ
+[FATAL] De-mangled symbol name (for reference): public: float __cdecl AFGWheeledVehicle::GetFuelBurnRatio(void) __ptr64
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+Providing default implementation for destructor of class: AFGBuildableConveyorAttachment
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 1688
+call 140701692854272
+mov rcx, [rsp+48]
+add rcx, 1704
+call 140701692854272
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701700345200
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Providing default implementation for destructor of class: AFGBuildableHologram
+Warning! It can result in memory leaks if object is not freed up properly.
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+-------GENERATED DESTRUCTOR CODE BEGIN-------
+.section .text
+mov [rsp+8], rcx
+sub rsp, 40
+mov rcx, [rsp+48]
+add rcx, 1024
+call 2451998377856
+mov rcx, [rsp+48]
+add rcx, 0
+call 140701692854272
+add rsp, 40
+ret
+
+--------GENERATED DESTRUCTOR CODE END--------
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC7C0B0000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 300
+Removing protection from page 00007FFC7C0F08B0
+Removing protection from page 00007FFC7C0DA090
+Removing protection from page 00007FFC7C0DB088
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC793B0000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 360
+Removing protection from page 00007FFC793D88AC
+Removing protection from page 00007FFC793CE710
+[FATAL] Executable missing symbol with mangled name: ?FromInt@FString@@SA?AV1@H@Z
+[FATAL] De-mangled symbol name (for reference): public: static class FString __cdecl FString::FromInt(int)
+[FATAL] Overriding it with dummy symbol. Bad things will happen if it is going to be actually called!
+Providing default implementation for destructor of class: FJsonValue
+Warning! It can result in memory leaks if object is not freed up properly.
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFCDCB50000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 160
+Removing protection from page 00007FFCDCB5D484
+Removing protection from page 00007FFCDCB58080
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC79370000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 220
+Removing protection from page 00007FFC7938A568
+Removing protection from page 00007FFC79381CB8
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC79290000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 260
+Removing protection from page 00007FFC79329CF0
+Removing protection from page 00007FFC792EE658
+Removing protection from page 00007FFC792EF000
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFC79220000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 280
+Removing protection from page 00007FFC79256F78
+Removing protection from page 00007FFC792425B8
+Removing protection from page 00007FFC79243000
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Loaded Raw DLL module: MZê
+Casted module to dos header 00007FFCCB610000
+Magic: 23117 Expected Magic: 23117
+Import Directory Size: 200
+Removing protection from page 00007FFCCB616568
+Removing protection from page 00007FFCCB615090
+Resolved imports successfully; Calling DllMain
+Called DllMain successfully on DLL. Loading finished.
+Successfully performed bootstrapping.
+Flushing debug symbols
