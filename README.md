@@ -21,6 +21,10 @@
 
 ## ToDo: 
 
-CustomUI Panels mit seinen Settings als eigenes Struct Speichern
+Bild/ Farben ändern aus Lua herraus. 
 
-Panel Einstellung View on Overlay
+Ton Abspielen
+
+CustomUI so speichern das immer wieder drauf zugegriffen werden kann 
+oder das man ein layout exportieren importieren kann 
+
