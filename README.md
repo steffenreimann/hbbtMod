@@ -21,20 +21,18 @@
 
 ## ToDo: 
 
-Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden.
+#### Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden.
 
-Panel
- - Hintergrund Farbe ändern
+### Panel
+ - Hintergrund Farbe/Bild ändern
  - Position ändern
- 
+ - Größe ändern 
 
-Schrift
- - größe ändern
+### Schrift
+ - Größe ändern
  - Farbe ändern
 
-Bild/ Farben ändern aus Lua herraus. 
-
-Ton Abspielen
+Sounds Abspielen
 
 CustomUI so speichern das immer wieder drauf zugegriffen werden kann 
 oder das man ein layout exportieren importieren kann 
