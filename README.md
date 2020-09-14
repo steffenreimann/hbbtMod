@@ -21,6 +21,17 @@
 
 ## ToDo: 
 
+Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden.
+
+Panel
+ - Hintergrund Farbe ändern
+ - Position ändern
+ 
+
+Schrift
+ - größe ändern
+ - Farbe ändern
+
 Bild/ Farben ändern aus Lua herraus. 
 
 Ton Abspielen
