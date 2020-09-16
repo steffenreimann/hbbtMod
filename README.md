@@ -21,6 +21,7 @@
 
 ## ToDo: 
 
+
 #### Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden.
 
 ### Panel
