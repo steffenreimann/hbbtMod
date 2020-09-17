@@ -19,18 +19,14 @@
 
 
 
-## ToDo: 
+# ToDo: 
 
-#### 🔜 Automatisches übernehmen von Panel Einstellungen  
+## Smartphone 
 
-#### 🔜 Einstellung für Panels in Row und Generelle Einstellungen
-
-#### ✔ Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 
-
-#### ✔ Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. 
-
-#### ✔ UI Farben und Sounds anpassen
-
+### General Settings 
+- 🔜 Row Max Panels
+- 🔜 Automatisches erstellen von Panels Ausschaltbar
+- 🔜 Layout Auswahl
 
 ### Overview 
  - ✔ Scroll Horizontal 
@@ -51,8 +47,23 @@
  - 🔜 Schrift Größe ändern 
  - 🔜 Schrift Farbe ändern 
 
+### UI 
+- 🔜 Checkbox für Anzeige einstellungen
+
+# Radio Tower
+
+### UI 
+- 🔜 Verbundende Smartphones anzeigen
+- 
 
 #### 🔜 Sounds Abspielen 
 
 #### ❌ CustomUI so speichern das immer wieder drauf zugegriffen werden kann oder das man ein layout exportieren importieren kann 
 
+#### ✔ Automatisches übernehmen von Panel Einstellungen  
+
+#### ✔ Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 
+
+#### ✔ Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. 
+
+#### ✔ UI Farben und Sounds anpassen
