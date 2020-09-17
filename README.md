@@ -22,23 +22,32 @@
 ## ToDo: 
 
 
-#### Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 🔜
+#### 🔜 Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 
 
-#### Automatisches Speichern von Panels 🔜
+#### 🔜 Automatisches übernehmen von Panel Einstellungen  
+
+#### ✔ Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. 
+
+#### ✔ UI Farben und Sounds anpassen
+
+### Panel Overview
+ - ✔ Position ändern
+ - ✔ Größe ändern
+ - ✔ Anzeige Einstellung
+ - 🔜 Hintergrund Farbe/Bild ändern
+ - 🔜 Schrift Größe ändern 
+ - 🔜 Schrift Farbe ändern 
+
+### Panel Overlay
+ - ✔ Position ändern
+ - ✔ Größe ändern
+ - ✔ Anzeige Einstellung
+ - 🔜 Hintergrund Farbe/Bild ändern
+ - 🔜 Schrift Größe ändern 
+ - 🔜 Schrift Farbe ändern 
 
 
-#### Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. ✅✔
+#### 🔜 Sounds Abspielen 
 
-### Panel
- - Hintergrund Farbe/Bild ändern ❌
- - Position ändern ❌
- - Größe ändern ❌
-
-### Schrift
- - Größe ändern ❌
- - Farbe ändern ❌
-
-#### Sounds Abspielen ✔
-
-#### CustomUI so speichern das immer wieder drauf zugegriffen werden kann oder das man ein layout exportieren importieren kann 
+#### ❌ CustomUI so speichern das immer wieder drauf zugegriffen werden kann oder das man ein layout exportieren importieren kann 
 
