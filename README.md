@@ -22,18 +22,19 @@
 ## ToDo: 
 
 
-#### Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden.
+
+#### Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. ✅✔
 
 ### Panel
- - Hintergrund Farbe/Bild ändern
- - Position ändern
- - Größe ändern 
+ - Hintergrund Farbe/Bild ändern ❌
+ - Position ändern ❌
+ - Größe ändern ❌
 
 ### Schrift
- - Größe ändern
- - Farbe ändern
+ - Größe ändern ❌
+ - Farbe ändern ❌
 
-Sounds Abspielen
+Sounds Abspielen ✔
 
 CustomUI so speichern das immer wieder drauf zugegriffen werden kann 
 oder das man ein layout exportieren importieren kann 
