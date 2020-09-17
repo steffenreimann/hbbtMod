@@ -21,14 +21,19 @@
 
 ## ToDo: 
 
-
-#### 🔜 Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 
-
 #### 🔜 Automatisches übernehmen von Panel Einstellungen  
+
+#### 🔜 Einstellung für Panels in Row und Generelle Einstellungen
+
+#### ✔ Automatisches erstellen von Panels wenn Daten empfangen werden die keinem Panel zugewiesen werden können. 
 
 #### ✔ Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. 
 
 #### ✔ UI Farben und Sounds anpassen
+
+
+### Overview 
+ - ✔ Scroll Horizontal 
 
 ### Panel Overview
  - ✔ Position ändern
