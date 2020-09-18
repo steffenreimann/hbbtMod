@@ -24,13 +24,13 @@
 ## Smartphone 
 
 ### General Settings 
-- 🔜 General Settings Page
-- 🔜 Row Max Panels
-- 🔜 Automatisches erstellen von Panels Ausschaltbar
+- ✔ General Settings Page
+- ✔ Row Max Panels
+- ✔ Automatisches erstellen von Panels Ausschaltbar
 - 🔜 Panel Presets/Layout Auswahl
 
 ### Overview 
- - ✔ Scroll Horizontal 
+ - ✔ Scroll Horizontal  
 
 ### Panel Overview
  - ✔ Position ändern
@@ -49,11 +49,18 @@
 ### UI 
 - 🔜 Checkbox für Anzeige einstellungen
 
+
+### Console 
+
+
+### Actions 
+
+
+
 ## Radio Tower
 
 ### UI 
 - 🔜 Verbundende Smartphones anzeigen
-- 
 
 #### 🔜 Sounds Abspielen 
 
