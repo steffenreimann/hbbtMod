@@ -35,6 +35,7 @@
 ### Panel Overview
  - ✔ Position ändern
  - ✔ Anzeige Einstellung
+ - 🔜 Größe ändern
  - 🔜 Hintergrund Farbe/Bild ändern
  - 🔜 Schrift Größe ändern 
  - 🔜 Schrift Farbe ändern 
@@ -42,6 +43,7 @@
 ### Panel Overlay
  - ✔ Position ändern
  - ✔ Anzeige Einstellung
+ - 🔜 Größe ändern
  - 🔜 Hintergrund Farbe/Bild ändern
  - 🔜 Schrift Größe ändern 
  - 🔜 Schrift Farbe ändern 
