@@ -33,7 +33,6 @@
 
 ### Panel Overview
  - ✔ Position ändern
- - ✔ Größe ändern
  - ✔ Anzeige Einstellung
  - 🔜 Hintergrund Farbe/Bild ändern
  - 🔜 Schrift Größe ändern 
@@ -41,7 +40,6 @@
 
 ### Panel Overlay
  - ✔ Position ändern
- - ✔ Größe ändern
  - ✔ Anzeige Einstellung
  - 🔜 Hintergrund Farbe/Bild ändern
  - 🔜 Schrift Größe ändern 
@@ -50,7 +48,7 @@
 ### UI 
 - 🔜 Checkbox für Anzeige einstellungen
 
-# Radio Tower
+## Radio Tower
 
 ### UI 
 - 🔜 Verbundende Smartphones anzeigen
@@ -66,4 +64,4 @@
 
 #### ✔ Links weitere Sidebar für alle erstellten objekte (Add button). objekte können von dort aus angewählt und gelöscht werden. 
 
-#### ✔ UI Farben und Sounds anpassen
+#### ✔ UI Farben und Hover Sounds
