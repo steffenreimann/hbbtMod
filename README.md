@@ -24,9 +24,10 @@
 ## Smartphone 
 
 ### General Settings 
+- 🔜 General Settings Page
 - 🔜 Row Max Panels
 - 🔜 Automatisches erstellen von Panels Ausschaltbar
-- 🔜 Layout Auswahl
+- 🔜 Panel Presets/Layout Auswahl
 
 ### Overview 
  - ✔ Scroll Horizontal 
