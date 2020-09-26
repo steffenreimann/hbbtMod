@@ -18,7 +18,6 @@
 ```
 
 
-
 # ToDo: 
 
 ## Smartphone 
@@ -62,7 +61,7 @@
 ## Radio Tower
 
 ### UI 
-- 🔜 Verbundende Smartphones anzeigen
+- ✔ Verbundende Smartphones anzeigen
 
 #### 🔜 Sounds Abspielen 
 
