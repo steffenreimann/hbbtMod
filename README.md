@@ -51,9 +51,12 @@
 - 🔜 Checkbox für Anzeige einstellungen
 
 
-### Console 
-
-
+### Info UI
+ - ✔ Dynamisch Anzeigen vom Container Inventart im Overlay
+ - ✔ Dynamisch Anzeigen vom Container Inventart in der Welt am Container
+ - ✔ Sotieren von Info Items nach Alphabet und Menge 
+ - ✔ Ein und Ausblenden von Infos
+ 
 ### Actions 
 
 
