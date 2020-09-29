@@ -18,7 +18,7 @@
 ```
 
 
-# ToDo: 
+# Fortschritt/Funktionen: 
 
 ## Smartphone 
 
@@ -59,7 +59,10 @@
  
 ### Actions 
 
-
+## Container Info Panel
+- ✔ Info Panel an eine belibige seite Spawnen
+- ✔ Position und Rotation ändern
+- 🔜 Tick Rate variabel einstellbar
 
 ## Radio Tower
 
