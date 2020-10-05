@@ -13,7 +13,6 @@
 UCLASS()
 class FACTORYGAME_API UMyBlueprintFunctionLibraryTest : public UBlueprintFunctionLibrary
 {
-	GENERATED_BODY()
 
 	/** This is my Test Function */
 	UFUNCTION(BlueprintCallable, meta = (DisplayName = 'Das ist eine Test function', Keywords = 'test function steffen'))
