@@ -1,15 +1,12 @@
 {
 	"mod_reference": "hbbtMod",
-	"name": "hbbtMod",
-	"description": "You can use your smartphone to quickly get information about storage and factorys, and you can craft with the craftig app",
+	"name": "SteffensTestMod",
+	"description": "SteffensTestMod",
 	"version": "0.0.1",
 	"sml_version": "2.2.1",
 	"authors": [
 		"herbbert"
 	],
-	"resources": {
-		"icon": "hbbt.png"
-	},
 	"objects": [
 		{
 			"type": "pak",
