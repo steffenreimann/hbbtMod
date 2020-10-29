@@ -69,9 +69,6 @@ DerivedDataCache/*
 *_WwiseProject/*
 Plugins/Wwise/*
 
-# Alpakit Mods folder
-Mods/*
-*.pak
 
 
 
