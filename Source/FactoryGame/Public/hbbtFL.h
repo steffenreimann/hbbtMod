@@ -26,4 +26,12 @@ class FACTORYGAME_API UhbbtFL : public UBlueprintFunctionLibrary
 	UFUNCTION(BlueprintCallable, meta = (DisplayName = "getConnectedActors", Category = "hbbt"))
     static void getConnectedActors(const AActor* Building, AActor*& RemoteLink, AActor*& InfoPanel);
 	
+	/** Convert cm to m*/
+    UFUNCTION(BlueprintCallable, meta = (DisplayName = "cm To Meter", Category = "hbbt") )
+	static float CmToM(const float cm);
+
+	
+	/** Convert to nice*/
+	UFUNCTION(BlueprintCallable, meta = (DisplayName = "Convert mm to nice", Category = "hbbt"))
+	static float distaceUI(const float cm);
 };

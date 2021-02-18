@@ -6,50 +6,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0733a502-62e5-400f-ab8e-b61efe27e47e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/desc_radioTower.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/recipe_radioTower.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/remoteLink/enum_health.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_health_item.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/struct_connectedActors.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/BFLtest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/BFLtest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/smartphoneListItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/smartphoneListItem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/widget_radioTower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/widget_radioTower.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_cellTower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_cellTower.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/desc_cellTower.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/testTower/Geometries/Group_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/testTower/Geometries/Group_2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/testTower/Geometries/Group_3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/testTower/Materials/Default.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/testTower/testTower.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/remoteLink/bp_remoteLink.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/remoteLink/bp_remoteLink.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/FIN/bp_App_FIN.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/FIN/bpi_App_FIN.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/FIN/desc_App_FIN.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/FIN/recipe_App_FIN.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/FIN/wg_App_FIN.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_App_REmoteLinkControl.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_App_REmoteLinkControl.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_RemoteLinkListItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_RemoteLinkListItem.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/masterWG_App.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/masterWG_App.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Recipes/Recipe_cellTower.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_AppStore_AppItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_AppStore_AppItem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Debugging/wg_debugging_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Debugging/wg_debugging_Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/backgound_App_Measure.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/backgound_App_Measure.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/bp_master_APP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/bp_master_APP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/structs/struct_nearRemotelinks.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/structs/struct_nearRemotelinks.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" beforeDir="false" afterPath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Private/MyBlueprintFunctionLibraryTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/MyBlueprintFunctionLibraryTest.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Public/FGCircuit.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/FGCircuit.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Public/MyBlueprintFunctionLibraryTest.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/MyBlueprintFunctionLibraryTest.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +37,9 @@
       <option value="$PROJECT_DIR$/Source/FactoryGame/Private/MyBlueprintFunctionLibraryTest.cpp" />
       <option value="$PROJECT_DIR$/Source/FactoryGame/Private/BFLtest.cpp" />
       <option value="$PROJECT_DIR$/Source/FactoryGame/Public/BFLtest.h" />
+      <option value="$PROJECT_DIR$/Source/FactoryGame/Public/FGCircuit.h" />
       <option value="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" />
       <option value="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" />
-      <option value="$PROJECT_DIR$/Source/FactoryGame/Public/FGCircuit.h" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oYtxGKaG10lcR1XYNVj3s2APt3" />
@@ -211,6 +183,7 @@
       <workItem from="1613501932469" duration="730000" />
       <workItem from="1613506223731" duration="4479000" />
       <workItem from="1613564543197" duration="3639000" />
+      <workItem from="1613654588709" duration="3481000" />
     </task>
     <servers />
   </component>
