@@ -88,13 +88,13 @@ private:
 	/** Set if we should replicate details. */
 	void SetReplicateDetails( bool replicateDetails );
 
-protected:
+public:
 	/** The id used to identify this circuit. */
 	UPROPERTY( SaveGame, Replicated )
 	int32 mCircuitID;
 
 	/** List of all the components (nodes) in this circuit. */
-	UPROPERTY( SaveGame )
+	UPROPERTY( SaveGame, BlueprintReadWrite )
 	TArray< class UFGCircuitConnectionComponent* > mComponents;
 
 	/** Do this circuit needs to be rebuilt, e.g. wires or components have been removed. */
