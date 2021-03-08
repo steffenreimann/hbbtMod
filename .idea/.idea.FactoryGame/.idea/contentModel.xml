@@ -54688,6 +54688,7 @@
             <e p="ItemAmount.cpp" t="Include" />
             <e p="ItemDrop.cpp" t="Include" />
             <e p="MyBlueprintFunctionLibraryTest.cpp" t="Include" />
+            <e p="MytestBase.cpp" t="Include" />
             <e p="NAT.cpp" t="Include" />
             <e p="ObjectReaderFName.cpp" t="Include" />
             <e p="ObjectWriterFName.cpp" t="Include" />
@@ -55259,6 +55260,7 @@
             <e p="ItemAmount.h" t="Include" />
             <e p="ItemDrop.h" t="Include" />
             <e p="MyBlueprintFunctionLibraryTest.h" t="Include" />
+            <e p="MytestBase.h" t="Include" />
             <e p="ObjectReaderFName.h" t="Include" />
             <e p="ObjectWriterFName.h" t="Include" />
             <e p="Particles" t="Include">
@@ -55369,6 +55371,16 @@
         <e p="FactoryGame.Target.cs" t="Include" />
         <e p="FactoryGameEditor.Target.cs" t="Include" />
         <e p="SML" t="Include">
+          <e p=".vs" t="Include">
+            <e p="ProjectSettings.json" t="Include" />
+            <e p="slnx.sqlite" t="Include" />
+            <e p="SML" t="Include">
+              <e p="v16" t="Include">
+                <e p="Browse.VC.db" t="Include" />
+              </e>
+            </e>
+            <e p="VSWorkspaceState.json" t="Include" />
+          </e>
           <e p="buildable" t="Include">
             <e p="GeneratedReplicationDetailActor.cpp" t="Include" />
             <e p="GeneratedReplicationDetailActor.h" t="Include" />

@@ -8,7 +8,6 @@
 
 int UhbbtFL::Inc(int In)
 {
-	
 	In = In + 1 ;
 	return In;
 }
@@ -43,8 +42,29 @@ float UhbbtFL::distaceUI(const float cm)
 	return Out;
 }
 
+float UhbbtFL::GetAPoint(const float Num)
+{
+	//double num = 23.345;
+	
+     const int intpart = static_cast<int> (Num);
+     const double decpart = Num - intpart;
+
+	return decpart;
+}
+
+FColor UhbbtFL::HexToColor(FString HexString)
+{
+    return FColor::FromHex(HexString);
+}
+
+FString UhbbtFL::ColorToHex(FColor Color)
+{
+    return Color.ToHex();
+}
 
 
 void UhbbtFL::getConnectedActors(const AActor* Building, AActor*& RemoteLink, AActor*& InfoPanel)
 {
 }
+
+

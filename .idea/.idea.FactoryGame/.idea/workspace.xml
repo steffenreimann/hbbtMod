@@ -6,19 +6,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0733a502-62e5-400f-ab8e-b61efe27e47e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure_Overlay.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/networkCabel/desc_networkWire.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/struct_smartphone_background_data.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/backgound_App_Info.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/desc_App_Info.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/enum_App_Info_Convert.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/recipe_App_Info.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/struct_App_Info_Data.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/wg_App_Info.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/BuildingInfo/wg_App_Info_Overlay.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/MI_PowerPoleWall_COLOR_0.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/MI_PowerPoleWall_COLOR_1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_BC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_LOD_BC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_LOD_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_LOD_Reflection.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/T_PowerPoleWall_Reflection.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/NewFolder/powerconnector1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/combobox/hbbt_dropdown_Combobox.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/combobox/wg_combobox_item.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbpSpinbox.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtInputKeySelector.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtItem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtListItem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtSpinboxWithPercent.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/test.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/MytestBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/MytestBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FactoryGame/Buildable/Factory/PowerLine/Holo_PowerLine.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FactoryGame/Buildable/Factory/PowerLine/Holo_PowerLine.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/widget_radioTower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/UI/widget_radioTower.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_cellTower.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/multiDynSplitter/hbbtMultiSplitter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/multiDynSplitter/hbbtMultiSplitter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/remoteLink/bp_remoteLink.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/remoteLink/bp_remoteLink.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/splitterPartent/hbbtSplitterMaster.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/upSplitter/upSplitterSmall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/upSplitter/upSplitterSmall.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/worldInfo/bp_worldInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/worldInfo/bp_worldInfo.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_AppStore_AppItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_AppStore_AppItem.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Debugging/wg_debugging_Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Debugging/wg_debugging_Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone_backgound.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone_backgound.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_App_AppStore.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/AppStore/wg_App_AppStore.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Crafting/wg_App_Crafting.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Crafting/wg_App_Crafting.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/backgound_App_Measure.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/backgound_App_Measure.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Measure/wg_App_Measure.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_App_REmoteLinkControl.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_App_REmoteLinkControl.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_RemoteLinkListItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_RemoteLinkListItem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_health_item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/RemoteLinkContol/wg_health_item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Settings/wg_App_Settings.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Settings/wg_App_Settings.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/InvAndCraft/wg_Inventar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/InvAndCraft/wg_Inventar.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/bp_master_APP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/MasterApp/bp_master_APP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Overlay/wg_OverlaySmartphone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Overlay/wg_OverlaySmartphone.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/world/bp_containerInfoWorldWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/world/bp_containerInfoWorldWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/structs/struct_nearRemotelinks.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/structs/struct_nearRemotelinks.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryGame.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryGame.uproject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" beforeDir="false" afterPath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/hbbtFL.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/hbbtFL.h" afterDir="false" />
@@ -56,7 +99,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="C++ Project.FactoryGame">
+  <component name="RunManager" selected="C++ Project.UE4">
     <configuration name="FactoryGame" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="DebugGame Editor" />
@@ -184,6 +227,9 @@
       <workItem from="1613506223731" duration="4479000" />
       <workItem from="1613564543197" duration="3639000" />
       <workItem from="1613654588709" duration="3481000" />
+      <workItem from="1613762002705" duration="1829000" />
+      <workItem from="1614108552376" duration="667000" />
+      <workItem from="1614955710017" duration="1687000" />
     </task>
     <servers />
   </component>

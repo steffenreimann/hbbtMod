@@ -34,4 +34,16 @@ class FACTORYGAME_API UhbbtFL : public UBlueprintFunctionLibrary
 	/** Convert to nice*/
 	UFUNCTION(BlueprintCallable, meta = (DisplayName = "Convert mm to nice", Category = "hbbt"))
 	static float distaceUI(const float cm);
+	
+	
+	/** Converts hex string to color. Supports formats RGB, RRGGBB, RRGGBBAA, RGB, #RRGGBB, #RRGGBBAA */
+    UFUNCTION(BlueprintCallable, meta = (DisplayName = "hex string to color", Category = "hbbt"))
+    static FColor HexToColor(FString HexString);
+    
+    /** Converts color to hex string */
+    UFUNCTION(BlueprintCallable, meta = (DisplayName = "color to hex string", Category = "hbbt"))
+    static FString ColorToHex(FColor Color);/** Converts color to hex string */
+    
+    UFUNCTION(BlueprintCallable, meta = (DisplayName = "getAPoint", Category = "hbbt"))
+    static float GetAPoint(const float Num);
 };
