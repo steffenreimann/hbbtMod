@@ -54680,6 +54680,7 @@
               <e p="FGWallHologram.cpp" t="Include" />
               <e p="FGWheeledVehicleHologram.cpp" t="Include" />
               <e p="FGWireHologram.cpp" t="Include" />
+              <e p="hbbtTafelHologram.cpp" t="Include" />
               <e p="HologramHelpers.cpp" t="Include" />
               <e p="HologramSplinePathMode.cpp" t="Include" />
             </e>
@@ -55252,6 +55253,7 @@
               <e p="FGWallHologram.h" t="Include" />
               <e p="FGWheeledVehicleHologram.h" t="Include" />
               <e p="FGWireHologram.h" t="Include" />
+              <e p="hbbtTafelHologram.h" t="Include" />
               <e p="HologramHelpers.h" t="Include" />
               <e p="HologramSplinePathMode.h" t="Include" />
             </e>
