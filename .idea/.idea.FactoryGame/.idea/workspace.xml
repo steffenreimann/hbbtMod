@@ -6,31 +6,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0733a502-62e5-400f-ab8e-b61efe27e47e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/bp_blackboard_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/desc_blackboard.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/recipe_blackboard.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/wg_blackboard_world.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/widget/wg_blackboard_1_Interact.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/widget/wg_blackboard_interact.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/part_test.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/Hologram/hbbtTafelHologram.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/FactoryGame/Public/Hologram/hbbtTafelHologram.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/bp_blackboard.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/widget/wg_blackboardnew_Interact.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Icons/lock-icon-clipart-7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/Masters/moveable_Building_Master.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/enums/AxisMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/hbbtMod/enums/TransformModes.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FactoryGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/cellTower/bp_radiotower.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/upSplitter/Material.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/upSplitter/Material.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/Mesh/Material.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/Mesh/Material.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/bp_blackboard_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/bp_blackboard_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/desc_blackboard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/desc_blackboard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/wg_blackboard_world.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/wg_blackboard_world.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/widget/wg_blackboard_1_Interact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Buildings/Tafel/widget/wg_blackboard_1_Interact.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Crafting/wg_App_Crafting.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Crafting/wg_App_Crafting.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/IteractUI/wg_smartphoneInteract.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/world/bp_containerInfoWorldWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/world/bp_containerInfoWorldWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone1/bp_smart.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone1/desc_smart.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Material/ExampleMaterial.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Material/ExampleMaterial.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Schematics/Schematic_Example.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone_backgound.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/bp_smartphone_backgound.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Settings/wg_App_Settings.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Apps/Settings/wg_App_Settings.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Overlay/wg_OverlaySmartphone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/Handables/smartphone/widgets/Overlay/wg_OverlaySmartphone.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/InitMod.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/InitMod.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/lib.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtSpinboxWithPercent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbtSpinboxWithPercent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbt_button_normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbt_button_normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbt_switch_wg.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/hbbtMod/uiComponents/hbbt_switch_wg.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" beforeDir="false" afterPath="$PROJECT_DIR$/Mods/hbbtMod/hbbtMod.pak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FactoryGame/Private/Hologram/FGWallHologram.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FactoryGame/Private/Hologram/FGWallHologram.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +197,7 @@
       <workItem from="1614955710017" duration="1687000" />
       <workItem from="1616735344524" duration="325000" />
       <workItem from="1616766955328" duration="1092000" />
+      <workItem from="1618398866189" duration="789000" />
     </task>
     <servers />
   </component>

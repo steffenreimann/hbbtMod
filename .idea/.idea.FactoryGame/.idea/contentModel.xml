@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\body-parser" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\connect" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\express" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\express-serve-static-core" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\mime" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\node" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\qs" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\range-parser" t="IncludeRecursive" />
+    <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\javascript\typings\express\4.16.1\node_modules\@types\serve-static" t="IncludeRecursive" />
     <e p="C:\Users\Steffen\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_FactoryGame.-20757744.00" t="ExcludeRecursive" />
     <e p="E:\epicgames\Unreal Engine - CSS\Engine\Config" t="Include">
       <e p="Android" t="Include">
