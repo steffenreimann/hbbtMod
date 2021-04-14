@@ -1,5 +1,0 @@
-// ILikeBanas
-
-
-#include "MytestBase.h"
-
